@@ -53,7 +53,7 @@ I am going to use the required technologies in the following ways.
     - retrieving books, ratings, and reviews
     - submitting books, ratings, and reviews
 - **DB/Login** - Store users, book info, ratings, and reviews. Register and login users. Credentials securely stored in database. Can't add or move books unless authenticated.
-- **WebSocket** - Description here
+- **WebSocket** - As each user adds books, the title and rating are given to all other users.
 
 ## 🚀 AWS deliverable
 
