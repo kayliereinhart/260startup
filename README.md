@@ -48,8 +48,11 @@ I am going to use the required technologies in the following ways.
 - **HTML** - Uses correct HTML structure for application. Five HTML pages, shown in the Design section of this README.
 - **CSS** - Application styling that uses good whitespace, color choice and contrast. Creates the appearance of the bookshelf.
 - **React** - Provides login, allows interactive moving books, and use of React for routing and components.
-- **Service** - Description here
-- **DB/Login** - Description here
+- **Service** - Call to a third party for a book quote. Backend service with endpoints for:
+    - login
+    - retrieving books, ratings, and reviews
+    - submitting books, ratings, and reviews
+- **DB/Login** - Store users, book info, ratings, and reviews. Register and login users. Credentials securely stored in database. Can't add or move books unless authenticated.
 - **WebSocket** - Description here
 
 ## 🚀 AWS deliverable
