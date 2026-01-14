@@ -46,7 +46,7 @@ sequenceDiagram
 I am going to use the required technologies in the following ways.
 
 - **HTML** - Uses correct HTML structure for application. Five HTML pages, shown in the Design section of this README.
-- **CSS** - Description here
+- **CSS** - Application styling that uses good whitespace, color choice and contrast. Creates the appearance of the bookshelf.
 - **React** - Description here
 - **Service** - Description here
 - **DB/Login** - Description here
