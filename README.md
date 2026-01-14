@@ -8,11 +8,11 @@ My Bookshelf is a website where users can enter books they read, and the books w
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
+- [x] Proper use of Markdown
 - [x] A concise and compelling elevator pitch
 - [x] Description of key features
 - [x] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
@@ -20,20 +20,11 @@ My Bookshelf allows users to track the books they read by putting them on a beau
 
 ### Design
 
-![Design image](images/login.png)
-![Design image](images/shelf.png)
-![Design image](images/addBook.png)
-![Design image](images/viewBook.png)
-![Design image](images/notifications.png)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
+![Login image](images/login.jpg)
+![Shelf image](images/shelf.jpg)
+![Add Book image](images/addBook.jpg)
+![View Book image](images/viewBook.jpg)
+![Notifications image](images/notifications.jpg)
 
 ### Key features
 
