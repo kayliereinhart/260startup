@@ -9,7 +9,7 @@ My Bookshelf is a website where users can enter books they read, and the books w
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [ ] Proper use of Markdown
-- [ ] A concise and compelling elevator pitch
+- [x] A concise and compelling elevator pitch
 - [ ] Description of key features
 - [ ] Description of how you will use each technology
 - [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
@@ -33,9 +33,13 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Secure login over HTTPS
+- Add books to the bookshelf
+- Customize the color, width, and height of the book
+- Change placement of books on the shelf
+- Click on the book to see your rating and review
+- Send notification with title and rating to other users when you add a book
+- Displays a book quote
 
 ### Technologies
 
