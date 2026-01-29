@@ -53,12 +53,13 @@ I am going to use the required technologies in the following ways.
 ## 🚀 AWS deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
+- [x] **Server deployed and accessible with custom domain name** - [My server link](https://daily-bread.click).
 
 ## 🚀 HTML deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - Five HTML pages that represent the abilities to login, add/view books, see notifications, and view the bookshelf.
 - [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
 - [ ] **Links** - I did not complete this part of the deliverable.
 - [ ] **Text** - I did not complete this part of the deliverable.
