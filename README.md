@@ -64,8 +64,8 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Links** - The heading on each page includes links to all of the pages. The Bookshelf page links to the View Book page.
 - [x] **Text** - There is text displaying the book information like title, author, rating, and review.
 - [x] **3rd party API placeholder** - On the Bookshelf page there is a placeholder for a book quote from a 3rd party API.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
+- [x] **Images** - I included an image of bread in the header on each page.
+- [x] **Login placeholder** - There are input boxes and a submit button for login.
 - [ ] **DB data placeholder** - I did not complete this part of the deliverable.
 - [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
 
