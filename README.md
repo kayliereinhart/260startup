@@ -66,8 +66,8 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **3rd party API placeholder** - On the Bookshelf page there is a placeholder for a book quote from a 3rd party API.
 - [x] **Images** - I included an image of bread in the header on each page.
 - [x] **Login placeholder** - There are input boxes and a submit button for login.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **DB data placeholder** - The book on the shelf and the book information on the View Book page represent data pulled from the database. The submitted book information represents data put into the database.
+- [x] **WebSocket placeholder** - The Notifications page will show realtime data about books submitted.
 
 ## 🚀 CSS deliverable
 
