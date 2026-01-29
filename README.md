@@ -62,8 +62,8 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **HTML pages** - Five HTML pages that represent the abilities to login, add/view books, see notifications, and view the bookshelf.
 - [x] **Proper HTML element usage** - I properly used elements like BODY, NAV, MAIN, HEADER, and FOOTER in each of my HTML files.
 - [x] **Links** - The heading on each page includes links to all of the pages. The Bookshelf page links to the View Book page.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
+- [x] **Text** - There is text displaying the book information like title, author, rating, and review.
+- [x] **3rd party API placeholder** - On the Bookshelf page there is a placeholder for a book quote from a 3rd party API.
 - [ ] **Images** - I did not complete this part of the deliverable.
 - [ ] **Login placeholder** - I did not complete this part of the deliverable.
 - [ ] **DB data placeholder** - I did not complete this part of the deliverable.
