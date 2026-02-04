@@ -1,3 +1,8 @@
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
 .rating input {
     display: none;
 }
@@ -5,4 +10,8 @@
 .rating label {
     font-size:2.5rem;
     color: lightgrey;
+}
+
+.rating input:checked ~ label {
+    color: gold;
 }
