@@ -21,4 +21,10 @@
     writing-mode: vertical-rl;
     transform: rotate(180deg);
     text-align: center;
+    color: white;
+}
+
+.book:hover {
+    transform: translateY(-5px);
+    transition: 0.2s;
 }
