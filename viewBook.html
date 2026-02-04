@@ -6,27 +6,42 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Daily Bread</title>
         <link rel="icon" href="images/bookstack.jpg">
+
+        <link rel="stylesheet" href="main.css" />
+
+        <!-- Include bootstrap CSS framework -->
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+            crossorigin="anonymous"
+        />
     </head>
     <body>
-        <header>
-            
-
-            <nav>
+        <header class="container-fluid">
+            <nav class="navbar fixed-top">
                 <div class="navbar-brand">
                     <td><img src="images/bookstack.jpg" width="70" height="70"></td>
                     <td><h1>My Bookshelf</h1></td>
                 </div>
-                <menu>
-                    <li class="nav-item"><a href="index.html">Login</a></li>
-                    <li class="nav-item"><a href="shelf.html">Bookshelf</a></li>
-                    <li class="nav-item"><a href="addBook.html">Add Book</a></li>
-                    <li class="nav-item"><a href="viewBook.html">View Book</a></li>
-                    <li class="nav-item"><a href="notifications.html">Notifications</a></li>
+                <menu class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="shelf.html">Bookshelf</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="addBook.html">Add Book</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="viewBook.html">View Book</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="notifications.html">Notifications</a>
+                    </li>
                 </menu>
             </nav>
-
-            <!--Line dividing header and main-->
-            <hr />
         </header>
 
         <main>
