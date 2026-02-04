@@ -1,0 +1,24 @@
+.bookshelf {
+    background-color: burlywood;
+    width: 300px;
+}
+
+.row {
+    border-bottom: thick brown solid;
+    height: 70px;
+}
+
+.book {
+    height: 60px;
+    width: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+.spine {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    text-align: center;
+}

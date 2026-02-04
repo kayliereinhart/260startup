@@ -8,6 +8,7 @@
         <link rel="icon" href="images/bookstack.jpg">
 
         <link rel="stylesheet" href="main.css" />
+        <link rel="stylesheet" href="shelf.css" />
 
         <!-- Include bootstrap CSS framework -->
         <link
@@ -44,12 +45,12 @@
             </nav>
         </header>
 
-        <main>
+        <main class="container-fluid text-center">
             <h1>Bookshelf</h1>
 
             <p>"I like good strong words that mean something..." - Louisa May Alcott, Little Women</p>
 
-            <table border="1" width="1000">
+            <!--<table id="bookshelf">
                 <tr border="1" height="200" valign="bottom">
                     <td>
                         <a href="viewBook.html">
@@ -77,7 +78,17 @@
                 <tr border="1" height="200">
                     <td></td>
                 </tr>
-            </table>
+            </table>-->
+
+            <div class="bookshelf">
+                <div class="row">
+                    <div class="book col-1">
+                        <span class="spine">Title</span>
+                    </div>
+                </div>
+                <div class="row"></div>
+                <div class="row"></div>
+            </div>
         </main>
 
         <footer>
